@@ -1,0 +1,21 @@
+These Python scripts are used to perform various file operations, including encryption, decryption, splitting, and combining. Please follow the instructions below for each operation.
+
+
+Open terminal in this folder (Powershell)
+
+To start python environnement :
+venv\Scripts\activate
+
+To crypt your file :
+py crypt.py
+
+To split your file :
+py split.py
+
+To combine your files :
+py combine.py
+
+To decript your file :
+py decrypt.py
+
+IMPORTANT : Don't delete your .json files
