@@ -1,13 +1,13 @@
 # FragFile
-FragFile is a Python-based utility meticulously crafted to bolster data security by dispersing files across multiple locations or storage devices. Empowering users to partition files into discrete segments, termed as Primary Crypted Files (PCF) and Secondary Crypted Files (SCF), FragFile ensures secure storage in distinct locations. This strategic fragmentation not only enhances data redundancy but also fortifies the safeguarding of vital information against potential loss or unwarranted access.
+FragFile is a Python-based utility meticulously crafted to bolster data security by dispersing files across multiple locations or storage devices. Empowering users to partition files into discrete segments, termed as Primary Crypted Files (Primary.fesf) and Secondary Crypted Files (Secondary.fesf), FragFile ensures secure storage in distinct locations. This strategic fragmentation not only enhances data redundancy but also fortifies the safeguarding of vital information against potential loss or unwarranted access.
 
 Key Features:
 
-File Fragmentation: Seamlessly slice files into encrypted segments (PCF and SCF), facilitating distribution across various storage devices, locations, or cloud services.
+File Fragmentation: Seamlessly slice files into encrypted segments, facilitating distribution across various storage devices, locations, or cloud services.
 
 Data Redundancy: Elevate data redundancy by storing identical file segments in multiple secure havens, mitigating the perils of data loss.
 
-File Restoration: Effortlessly merge PCF and SCF files back into their pristine form, empowering users to restore data from dispersed storage repositories.
+File Restoration: Effortlessly merge Primary.fesf and Secondary.fesf files back into their pristine form, empowering users to restore data from dispersed storage repositories.
 
 Configuration Repository: Preserve critical data like the original file name, extension, and segment size in a configuration file, ensuring swift and accurate file reconstruction.
 
